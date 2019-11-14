@@ -1,0 +1,27 @@
+[
+    {
+        "id": "expus",
+        "name": "Expus",
+        "url": "https://expus.herokuapp.com"
+    },
+    {
+        "id": "mechat-apk",
+        "name": "MeChat APK",
+        "url": "https://drive.google.com/file/d/1GnreDCTu5wx6M64ukVavE1L5WaqfKHZi/view?usp=sharing"
+    },
+    {
+        "id": "pos-web",
+        "name": "Point of sales (Web)",
+        "url": "https://app.pos.sutanlab.id"
+    },
+    {
+        "id": "tiketin",
+        "name": "Tiketin",
+        "url": "https://drive.google.com/file/d/1uqNEnz-vK8-ASgOnTMOHtlzbO6QmZv82/view?usp=sharing"
+    },
+    {
+        "id": "vuetask",
+        "name": "Vuetask",
+        "url": "https://vuetask.sutanlab.id"
+    }
+]
