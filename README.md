@@ -26,6 +26,8 @@ You can find this config in `.babelrc` in root folder.
 ### Start Creating App
 Our entry point has been defined on `webpack.config.js` as `index.js` in root folder. What in it is just create ReactDOM and import it as App.
 
+You can find this config in `index.js` in root folder.
+
 ### Create HTML template
 This is unnecesary things to do, but it might be useful if you want to add extra dependencies later or import something in html. What it really do is just import `index.js` above.
 
